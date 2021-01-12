@@ -3,7 +3,7 @@
 
   $(window).load(function() {
 
-    jQuery('th.sortable > a').each(function(i,l){ 
+    jQuery('table.wp-list-table th.sortable > a').each(function(i,l){ 
       let $l = jQuery(l);
       let orig = $l.attr('href'); 
       let href = orig.replace('order=asc','order=desc'); 
