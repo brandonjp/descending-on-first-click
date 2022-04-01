@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Descending Sort on First Click for Admin Columns
-Plugin URI: http://brandonjp.com
+Plugin URI: https://github.com/brandonjp/descending-on-first-click
 Description: On column headers on admin pages, default to descending sort upon first click. By default, WP sorts ascending when you first click a column header. This switches the sorting url to descending. There are no options. Activate the plugin to enable. Deactivate to disable. 
 Version: 0.1.2
 Author: Brandon Pfeiffer
